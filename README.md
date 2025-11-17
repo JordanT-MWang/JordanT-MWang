@@ -1,4 +1,4 @@
-Hi Y'all 👋, I am Jordan Wang  
+Hello Y'all 👋, my name is Jordan!  
   
 Currently in my Fourth Year of Mechatronics Engineering at the University of Waterloo. I inspire to work in the robotic industry and apply my skills to help improve the world.
   
