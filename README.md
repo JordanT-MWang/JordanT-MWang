@@ -1,7 +1,10 @@
 Hi Y'all 👋, I am Jordan Wang  
+  
 Currently in my Fourth Year of Mechatronics Engineering at the University of Waterloo. I inspire to work in the robotic industry and apply my skills to help improve the world  
-Most recently working at the University of Hawaii as a Machine Learning Intern [Repo](https://github.com/JordanT-MWang/ADSA-AI-JordanWang)
+  
+Most recently working at the University of Hawaii as a Machine Learning Intern developing a ML model . Check out my work at this [Repo](https://github.com/JordanT-MWang/ADSA-AI-JordanWang).  
 
+I'm esspecally interested in embedded and hardware developement, which I got to explore during my internships as a Robotic Hardware Intern [Porject Link](https://believed-station-bd6.notion.site/Robotic-Arm-Test-Rig-207e909a031b809bab3ad8ebb713567f) and as a reasearch assistant at the University of Waterloo [Repo](https://github.com/JordanT-MWang/ROS2_Rogers_Teleops)
 
 <!--
 **JordanT-MWang/JordanT-MWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
