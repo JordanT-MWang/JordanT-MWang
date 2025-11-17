@@ -1,6 +1,6 @@
 Hi Y'all 👋, I am Jordan Wang  
   
-Currently in my Fourth Year of Mechatronics Engineering at the University of Waterloo. I inspire to work in the robotic industry and apply my skills to help improve the world  
+Currently in my Fourth Year of Mechatronics Engineering at the University of Waterloo. I inspire to work in the robotic industry and apply my skills to help improve the world.
   
 Most recently working at the University of Hawaii as a Machine Learning Intern developing a ML model . Check out my work at this [Repo](https://github.com/JordanT-MWang/ADSA-AI-JordanWang).  
 
