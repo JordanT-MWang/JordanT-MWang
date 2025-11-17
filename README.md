@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi Y'all 👋, I am Jordan Wang
+
+## Currently in my Fourth Year of Mechatronics Engineering at the University of Waterloo. I inspire to work in the robotic industry and apply my skills to help improve the world
+
+## Most recently working at the University of Hawaii as a Machine Learning Intern https://github.com/JordanT-MWang/2024_haptic_teleops
+
 
 <!--
 **JordanT-MWang/JordanT-MWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
